@@ -74,15 +74,9 @@ Ou à tester en ligne via **Streamlit Cloud** 🌐
 > Ce projet fait partie de mon portfolio data. N'hésitez pas à me contacter !
 
 - 🎓 **IVAN NFINDA**
-- 💼 [Mon LinkedIn](https://www.linkedin.com/in/ton-profil)
-- 📧 ivan.nfinda@email.com *(à personnaliser)*
+- ivannfinda@gmail.com
 
 ---
 
-## ⭐ Bonus
 
-✨ Idéal pour :  
-- Montrer vos compétences Data / UX / Business  
-- Entretien marketing / CRM / produit / analyste  
-- Ajouter une vraie valeur dans un portfolio GitHub
 
